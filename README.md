@@ -3,7 +3,7 @@
 ## Project Overview
 This project is an interactive Command-Line Interface (CLI) application built as a final project for Stanford's Code in Place course. The tool implements **steganography**—the art and science of hiding secret pieces of data inside an ordinary file. Specifically, this application allows users to safely encode a hidden text message within the pixel data of a standard PNG image, and conversely, decode a modified image to extract and reveal the hidden text. 
 
-To a human observer, the original image and the encoded image look completely identical, making it an excellent way to pass secret messages "spy-style"!
+To a human observer, the original image and the encoded image look completely identical, making it an excellent way to pass secret messages.
 
 ---
 
